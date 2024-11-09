@@ -1,3 +1,5 @@
+package array;
+
 public class SortAllZeros {
     static void sortAllZeros(int arr[]) {
         int temp[] = new int[arr.length];

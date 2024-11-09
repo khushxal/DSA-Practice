@@ -1,3 +1,5 @@
+package array;
+
 public class LargestEle {
     public static int largestEle(int arr[]) {
         int max = arr[0];

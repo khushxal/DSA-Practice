@@ -1,3 +1,5 @@
+package array;
+
 public class SecondLargestEle {
 
     static int secondLargestEle(int arr[]) {

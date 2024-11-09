@@ -1,3 +1,5 @@
+package array;
+
 public class TwoSum {
 
     public static boolean twoSum(int arr[], int target) {
